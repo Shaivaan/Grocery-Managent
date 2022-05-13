@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Rajma",
+      "qty": "3",
+      "price": "70",
+      "des": "Rājmā [radʒma] (Hindi: राजमा, Urdu: راجما), also known as rajmah, rāzmā, or lal lobia, is a vegetarian dish, originating from the Indian subcontinent, consisting of red kidney beans in a thick gravy with many Indian whole spices, and is usually served with rice.",
+      "img": "https://5.imimg.com/data5/QT/PJ/GC/SELLER-24138039/red-kidney-beans-kashmiri-rajma--500x500.JPG",
+      "id": 1
+    },
+    {
+      "name": "Toor Daal",
+      "qty": "5",
+      "price": "90",
+      "des": "Toor Dal also is known as Arhar Dal, Peeli Dal or Yellow Dal is a lentil preparation which is a must-have in most Indian households. It is healthy and super easy to make and tastes delicious with roti or steamed rice. ",
+      "img": "https://www.whiskaffair.com/wp-content/uploads/2020/04/Toor-Dal-1.jpg",
+      "id": 2
+    }
+  ]
+}
